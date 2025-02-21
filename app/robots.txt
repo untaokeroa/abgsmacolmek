@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://abgsmacolmek.pages.dev/sitemap.xml
